@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @maverick-farhan
 - 👀 I’m interested in Fullstack web development and application development for ios/Android
 - 🌱 I’m currently learning HTML, CSS, Javascript
-- 💞️ I’m looking to collaborate on Web application dev
+- 💞️ I’m looking to collaborate with Web application dev
 - 📫 Mail me on mdfarhanofficial@protonmail.com
 
 <!---
