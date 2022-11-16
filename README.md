@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @maverick-farhan
 - 👀 I’m interested in Frontend web development and application development for ios/Android
-- 🌱 I’m currently learning HTML, CSS, Javascript
+- 🌱 I’m currently learning HTML, CSS, Javascript with some libraries
 - 💞️ I’m looking to collaborate with Web App devs
 - 📫 Mail me on mdfarhanofficial@protonmail.com
 
