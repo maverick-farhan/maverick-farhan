@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @maverick-farhan
+- 👋 Hi, I’m @maverick-farhan. JavaScript developer (know the language, now seeking experience by working on projects).
 - 👀 I’m interested in Frontend web development and application development for ios/Android
 - 🌱 I’m currently learning HTML, CSS, Javascript with some libraries
 - 💞️ I’m looking to collaborate with Web App devs
