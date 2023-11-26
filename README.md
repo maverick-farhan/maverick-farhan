@@ -6,7 +6,7 @@
 - 💞️ I’m looking to collaborate with Web App devs and Teams
 - 📫 Mail me on mdfarhanofficial@protonmail.com
 - ## 🤝 Socials
-- ![link](https://leetcode.com/submissions/#/1)[image](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black) 
+- [![image](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/farhanmushtaque13/) 
 <!---
 maverick-farhan/maverick-farhan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
