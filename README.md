@@ -10,7 +10,7 @@
 
 - # 👩‍💻 Projects
 - Quiz Api in ![image](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white) ![image](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge) ![image](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-- You can find API in Rapid API platform at <img src="https://avatars1.githubusercontent.com/u/14069567?s=280&v=4" alt="Rapid API" width="30" />
+- You can find API in Rapid API platform at [![image](https://rapidapi.com/static-assets/default/dark-logo-78e48dc1-ca3f-4d67-a6f5-74032f439c8b.svg)](https://rapidapi.com/farhanmushtaque13/api/500-quiz-api)
 <!---
 maverick-farhan/maverick-farhan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
