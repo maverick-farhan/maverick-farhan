@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @maverick-farhan.
 - 🖥️ JavaScript developer (know the language, now seeking experience by working on projects).
 - 👀 I’m interested in Fullstack web development and software development for independent platforms.
-- Tech Stack include ![image](https://github.com/maverick-farhan/maverick-farhan/assets/105407108/6f38c26e-b4e9-4be5-a62e-678c8d4bfa9a)
+- Tech Stack include ![image](https://github.com/maverick-farhan/maverick-farhan/assets/105407108/6f38c26e-b4e9-4be5-a62e-678c8d4bfa9a), ![image](https://github.com/maverick-farhan/maverick-farhan/assets/105407108/d7d175d6-8579-439e-8662-b4a561593a41)
+
 
 - 🌱 I’m currently learning HTML, CSS, Javascript with some libraries
 - 💞️ I’m looking to collaborate with Web App devs
