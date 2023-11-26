@@ -5,7 +5,7 @@
 
 
 - 💞️ I’m looking to collaborate with Web App devs and Teams
-- 📫 Mail me on ![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)(mdfarhanofficial@protonmail.com)
+- 📫 Mail me on ![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)    (mdfarhanofficial@protonmail.com)
 
 <!---
 maverick-farhan/maverick-farhan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
