@@ -12,12 +12,18 @@
   ## 500 Quiz Api
     - ### Tech Stack used:
       ![image](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white) ![image](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge) ![image](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-  - API Link (https://rapidapi.com/farhanmushtaque13/api/500-quiz-api)
+  - #### API Link (https://rapidapi.com/farhanmushtaque13/api/500-quiz-api)
 
   ## word-meaning search Tool
     - ### Tech Stack used:
       ![image](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-    - Package link (https://www.npmjs.com/package/word-meaning)
+    - #### Package link (https://www.npmjs.com/package/word-meaning)
+
+  ## copyToClip firefox addson
+  - CopyToClip allow users to copy code snippets from Stackoverflow
+    - ## Tech Stack used:
+      ![image](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+    - #### Addson Link (https://addons.mozilla.org/en-US/firefox/addon/copytoclip/)
 <!---
 maverick-farhan/maverick-farhan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
