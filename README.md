@@ -16,7 +16,7 @@
 
   ## word-meaning search Tool
     - ### Tech Stack used:
-      ![image](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+      ![image](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
     - Package link (https://www.npmjs.com/package/word-meaning)
 <!---
 maverick-farhan/maverick-farhan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
