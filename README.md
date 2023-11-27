@@ -14,13 +14,13 @@
     - ### Tech Stack used:
       ![image](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white) ![image](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge) ![image](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
   - #### API Link (https://rapidapi.com/farhanmushtaque13/api/500-quiz-api)
-
+---
   - ## word-meaning search tool
   - word-meaning tool helps you to find any word's meaning in your terminal with convenience and with blazing fast speed.
     - ### Tech Stack used:
       ![image](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
     - #### Package link (https://www.npmjs.com/package/word-meaning)
-
+---
   - ## copyToClip firefox addson
   - CopyToClip allow users to copy code snippets from Stackoverflow.
     - ### Tech Stack used:
