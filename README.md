@@ -10,14 +10,14 @@
 
 - # 👩‍💻 Live Project
   ## 500 Quiz Api
-  - ### Tech Stack used:
-  ![image](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white) ![image](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge) ![image](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+    - ### Tech Stack used:
+      ![image](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white) ![image](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge) ![image](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
   - API Link (https://rapidapi.com/farhanmushtaque13/api/500-quiz-api)
 
   ## word-meaning search Tool
     - ### Tech Stack used:
-    - ![image](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-    - package link (https://www.npmjs.com/package/word-meaning)
+      ![image](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+    - Package link (https://www.npmjs.com/package/word-meaning)
 <!---
 maverick-farhan/maverick-farhan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
