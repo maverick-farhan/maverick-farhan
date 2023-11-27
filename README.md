@@ -11,10 +11,10 @@
 - # 👩‍💻 Live Projects
 
 - ## 500 Quiz Api
-    - Collection of 500+ quiz questions to play with.
-    - ### Tech Stack used:
+   - Collection of 500+ quiz questions to play with.
+   - ### Tech Stack used:
       ![image](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white) ![image](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge) ![image](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-    - #### API Link (https://rapidapi.com/farhanmushtaque13/api/500-quiz-api)
+   - #### API Link (https://rapidapi.com/farhanmushtaque13/api/500-quiz-api)
 ---
   - ## word-meaning search tool
     - word-meaning tool helps you to find any word's meaning in your terminal with convenience and with blazing fast speed.
